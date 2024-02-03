@@ -9,6 +9,8 @@ Final Code is in the below path:
 Output CSV and plot screenshots are saved under:
 [Output Folder](WeatherPy/output_data/)
 
+Map Screenshots are under:
+[Map Screenshots](WeatherPy/Map_Screenshots/)
 
 SetUp:
 
